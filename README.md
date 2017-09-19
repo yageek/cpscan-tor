@@ -4,7 +4,7 @@ A port of [cpscan](https://github.com/susmithHCK/cpscan) in go using tor using t
 
 # Usage
 
-Install the [Tor Browser](https://www.torproject.org/projects/torbrowser.html) and starts to access its [socket](https://www.torproject.org/docs/faq.html.en#TBBSocksPort).
+Install the [Tor Browser](https://www.torproject.org/projects/torbrowser.html) to access its [socket](https://www.torproject.org/docs/faq.html.en#TBBSocksPort).
 
 Download the project and run:
 
